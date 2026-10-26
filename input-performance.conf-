@@ -1,0 +1,12 @@
+[Input_Devices]
+keyboard = "Ultra-Responsive Mechanical/Virtual Keyboard"
+mouse = "High-Precision Glassmorphism Cursor"
+polling_rate = "1000Hz (Zero-Delay Instant Response)"
+key_sensitivity = "Light-touch / Instant Actuation"
+acceleration = "disabled"
+
+[Performance_Tweaks]
+ram_optimization = "Lightweight for 2GB Systems"
+input_lag = "Zero-Delay Direct Driver Injection"
+ui_animation = "Smooth Glassmorphism 60FPS"
+cpu_priority = "Real-Time for Input Devices"
